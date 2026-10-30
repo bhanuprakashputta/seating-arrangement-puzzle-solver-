@@ -1,0 +1,6 @@
+Five friends A, B, C, D, E sit in a row facing north.
+A sits at the extreme left.
+B sits next to A.
+C does not sit next to B.
+D sits to the left of E.
+E sits at the extreme right.
